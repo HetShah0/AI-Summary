@@ -1,8 +1,6 @@
-# React + Vite
+# React + Vite + Rapid API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Here is an article summarizer with a modern user interface connection to open AI's GPT model and the integration of Redux toolkit query functionalities like copy to clipboard browser history storage.
+You take the URL of a lengthy article paste it here and the AI will quickly provide a summary it's as simple as that.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![image](Sumz.JPG)
